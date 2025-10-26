@@ -1,0 +1,6 @@
+Q2: Filling all missing values with zero is not a good practice, as it can distort the data and lead to misleading analysis. (-3)
+Q5: More comments should be provided on each box plot (-3)
+Q6: Box plots should have been separated so that the scale of the first one would not affect the other two. (−3)
+More comments should be provided on each box plot (-4)
+
+87/100
